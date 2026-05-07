@@ -1,6 +1,6 @@
 # Hi, I'm Mutmahinat Feyisara 👋🏾
 
-Blockchain Developer and Smart Contract Engineer based in Lagos, Nigeria.  
+Frontend Developer, Blockchain Developer and Smart Contract Engineer based in Lagos, Nigeria.  
 I build and deploy smart contracts on Ethereum, develop Web3-integrated  
 frontends, and publish technical content about DeFi and Web3.
 
